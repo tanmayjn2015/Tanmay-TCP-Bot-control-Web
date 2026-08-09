@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "494a715f7e9b4071aca61bac42ca858a309524e5864f0920030862a4ae7589be",
+    "role": "admin",
+    "email": ""
+  },
+  "tanmay": {
+    "password": "a85e9db4851f7cd3efb8db7bf69a07cfb97bc528b72785a9cff7bdfef7e2279d",
+    "role": "master",
+    "email": ""
+  }
+}

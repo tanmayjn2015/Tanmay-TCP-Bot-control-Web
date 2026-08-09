@@ -1,0 +1,2 @@
+admin_password=005
+global_duration=180

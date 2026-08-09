@@ -1,0 +1,16 @@
+ACCOUNT SYSTEM
+==============
+
+Roles:
+- User: normal panel access only.
+- Admin: can create, change password, and delete User accounts. Cannot create/delete/manage Admin accounts.
+- Master Admin: tanmay / 2015
+
+Default accounts:
+- Admin: admin / changeme123
+- Master Admin: tanmay / 2015
+
+Master Admin authentication:
+- Login directly with the Master Admin account (tanmay / 2015). No separate passkey.
+
+The master account is created automatically on first run if it does not already exist.
